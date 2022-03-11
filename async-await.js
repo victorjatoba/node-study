@@ -10,4 +10,3 @@ const callMe = async (val) => {
     const response = await callMe(true);
     console.log(response);
 })();
-
